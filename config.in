@@ -1,0 +1,19 @@
+# Filename     config.in
+# Date         4/19/2020
+# Author       Brian Doupnik
+# Email        bcd170030
+# Course       CS 3377.502 Spring 2020
+# Version      1.0
+# Copyright    2020, All Rights Reserved
+#
+# Description
+#      The configuration file I used to test the program
+
+# this is the section used by the program
+
+[Parameters]
+Verbose=true
+LogFile=daemon.log
+Password=
+NumVersions=100
+WatchDir=/home/011/b/bc/bcd170030/Homework/HW5_Watched
